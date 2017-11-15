@@ -1,19 +1,17 @@
 import tweepy
 import sys
 import json
-import jsonpickle
+#import jsonpickle
 import time
 import os
-#https://www.karambelkar.info/2015/01/how-to-use-twitters-search-rest-api-most-effectively./
-#https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object
-#http://docs.tweepy.org/en/v3.5.0/api.html#status-methods
-#https://developer.twitter.com/en/docs/tweets/rules-and-filtering/overview/basic-operators
-API_KEY ='9xVWHkeN4y8cb5oeP9hik4GFa'
-API_SECRET = 'loj6sQP5SInVScFivb6Yue8wdxlBRyxP7QKxoktXk3xpx91u9Z'
+
+API_KEY ='nXYbUBiJ6pV6yjvBn6p1F7bZj'
+API_SECRET = 'TgQji0DpvMe6Ly1nPbLsZnwohaXTCcoUxBoEk0tGahIdTorJuE'
+
 auth = tweepy.AppAuthHandler(API_KEY, API_SECRET)
 
 api = tweepy.API(auth, wait_on_rate_limit=True,
-				   wait_on_rate_limit_notify=True)
+                   wait_on_rate_limit_notify=True)
 
 if (not api):
     print ("Can't Authenticate")
@@ -23,35 +21,56 @@ maxTweets = 2000 # Some arbitrary large number
 tweetsPerQry = 100  # 100 is the max the API permits
 start_time = time.time()
 
-with open('twitter_names.jl', 'r') as f:
+with open('xaa1', 'r') as f:
     for line in f:
         input = json.loads(line)
         # input['nick'] = [item.encode('ascii', 'ignore') for item in input['nick']]
         # input['name'] = input['name'].encode('ascii', 'ignore')
+        all_list = []
+        if len(input['name'].split(' ')) > 1:
+            all_list.append(input['name'].encode('ascii', 'ignore'))
+        
+        c = 0
+        for x in input['nick']:
+            print "X",x
+            if len(x.split(' ')) > 1 and c <= 2 :
+                c += 1
+                y = x.encode('ascii', 'ignore')
+                all_list.append(y)
+    
+        hashtag_list = []
+        
+        for item in all_list:
+        
+            item = item.replace(" ", "")
+            tag_item = "#" + item
+  
+            hashtag_list.append(tag_item)
+        print hashtag_list
+        
+      
+    
+        all_list = list(set(all_list))
+        hashtag_list = list(set(hashtag_list))
+        searchQuery = ''+ '"' + all_list[0] + '"'
+        # if len(input['nick']) >2:
+        #     input['nick'] = input['nick'][:2]
 
-        name_list = []
-        print(type(input['nick']),type(input['name']))
-        name_list.append(input['name'])
-        searchQuery = ''+ '"' + input['name'] + '"'
-        if len(input['nick']) == 1:
+        
+        for x in all_list[1:]:
+            searchQuery = searchQuery + ' ' + 'OR' + ' ' +  '"' + x + '"'
 
-            for x in input['nick']:
-                if len(x.split(' ')) == 1:
-                    print(name_list)
-        else:
-            #name_list.extend(input['nick'])
-            #print(name_list)
-            for nickname in input['nick']:
-                searchQuery = searchQuery + ' ' + 'OR' + ' ' +  '"' + nickname + '"'
+        for it in hashtag_list:
+            searchQuery = searchQuery + ' ' + 'OR' + ' ' +  '"' + it + '"'
+        
 
-
-        searchQuery = searchQuery + ' -filter: retweets'
+        #searchQuery = searchQuery + ' -filter: retweets'
         print(searchQuery)
 
         tweetCount = 0
         print("Downloading max {0} tweets".format(maxTweets))
         fName = input['id']+ '.jl'
-        filePath = os.path.join('restAPI_tweets', fName)
+        filePath = os.path.join('xxaa1', fName)
 
 
         with open(filePath, 'w') as f:
@@ -70,7 +89,7 @@ with open('twitter_names.jl', 'r') as f:
                         json.dump(tweets, f)
                         f.write('\n')
                     tweetCount += len(new_tweets)
-                    print("Downloaded {0} tweets".format(tweetCount))
+                    #print("Downloaded {0} tweets".format(tweetCount))
 
                 except tweepy.TweepError as e:
                     # Just exit if any error
@@ -80,5 +99,5 @@ with open('twitter_names.jl', 'r') as f:
                 os.remove(filePath)
 
         print ("Downloaded {0} tweets, Saved to {1}".format(tweetCount, fName))
-        print("--- %s mins passed ---" % int(time.time() - start_time)/60)
+        print("--- %s mins passed ---" % (time.time() - start_time))
 
