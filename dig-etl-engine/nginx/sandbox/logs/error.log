@@ -1,0 +1,92 @@
+2017/11/25 19:03:56 [info] 11#11: *2 no user/password was provided for basic authentication, client: 172.19.0.1, server: , request: "GET /mydig/ui/ HTTP/1.1", host: "localhost:12497"
+2017/11/25 19:04:33 [info] 11#11: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 19:04:36 [info] 11#11: *2 no user/password was provided for basic authentication, client: 172.19.0.1, server: , request: "GET /mydig/projects HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/"
+2017/11/25 19:04:36 [info] 11#11: *2 no user/password was provided for basic authentication, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/"
+2017/11/25 22:06:06 [info] 11#11: *1798 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:06:06 [info] 11#11: *1704 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:06:11 [info] 11#11: *1806 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:06:11 [info] 11#11: *1804 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:24:21 [error] 10#10: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/actors_knowledge_graph/actions/extract?value=etk_status HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/actors_knowledge_graph/actions/extract?value=etk_status", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?actors_knowledge_graph"
+2017/11/25 22:24:22 [error] 10#10: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/ui/ HTTP/1.1", upstream: "http://172.19.0.13:9880/", host: "localhost:12497"
+2017/11/25 22:24:54 [info] 10#10: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 22:36:06 [info] 10#10: *108 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:36:06 [info] 10#10: *110 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:36:12 [info] 10#10: *190 client 172.19.0.1 closed keepalive connection
+2017/11/25 22:41:18 [error] 12#12: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/test/actions/extract?value=tld_statistics HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/test/actions/extract?value=tld_statistics", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?test"
+2017/11/25 22:41:18 [error] 12#12: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/test/actions/extract?value=etk_status HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/test/actions/extract?value=etk_status", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?test"
+2017/11/25 22:41:29 [error] 12#12: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/test/actions/extract?value=etk_status HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/test/actions/extract?value=etk_status", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?test"
+2017/11/25 22:41:29 [error] 12#12: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/test/actions/extract?value=tld_statistics HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/test/actions/extract?value=tld_statistics", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?test"
+2017/11/25 22:54:26 [info] 10#10: *6 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 22:54:26 [info] 10#10: *7 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 22:54:26 [info] 10#10: *5 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 22:54:26 [info] 10#10: *4 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 22:54:26 [info] 10#10: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/25 23:13:53 [info] 10#10: *288 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 00:57:27 [info] 10#10: *1393 client 172.19.0.1 closed keepalive connection
+2017/11/26 00:57:33 [info] 10#10: *1396 client 172.19.0.1 closed keepalive connection
+2017/11/26 01:51:28 [info] 10#10: *1399 client 172.19.0.1 closed keepalive connection
+2017/11/26 01:51:34 [info] 10#10: *1483 client 172.19.0.1 closed keepalive connection
+2017/11/26 05:16:39 [info] 10#10: *1990 client 172.19.0.1 closed keepalive connection
+2017/11/26 05:16:39 [info] 10#10: *2028 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:19:09 [info] 10#10: *2 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 06:19:09 [info] 10#10: *3 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 06:19:09 [info] 10#10: *6 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 06:19:09 [info] 10#10: *4 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 06:19:09 [info] 10#10: *5 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 06:20:08 [warn] 10#10: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /mydig/projects/my_project/data HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?my_project"
+2017/11/26 06:20:26 [warn] 10#10: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /mydig/projects/my_project/data HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?my_project"
+2017/11/26 06:31:56 [info] 10#10: *1 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:31:56 [info] 10#10: *25 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:44:42 [info] 10#10: *192 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:44:42 [info] 10#10: *193 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:44:51 [info] 10#10: *343 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:44:51 [info] 10#10: *342 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:53:52 [info] 10#10: *346 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:53:55 [info] 10#10: *450 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:59:51 [info] 10#10: *452 client 172.19.0.1 closed keepalive connection
+2017/11/26 06:59:53 [info] 10#10: *520 client 172.19.0.1 closed keepalive connection
+2017/11/26 15:15:47 [info] 10#10: *623 client 172.19.0.1 closed keepalive connection
+2017/11/26 15:38:23 [warn] 10#10: *999 an upstream response is buffered to a temporary file /var/cache/nginx/proxy_temp/3/00/0000000003 while reading upstream, client: 172.19.0.1, server: , request: "GET /elements/elements.html HTTP/1.1", upstream: "http://172.19.0.7:8080/elements/elements.html", host: "localhost:12497", referrer: "http://localhost:12497/search.html?project=my_project"
+2017/11/26 15:40:35 [info] 10#10: *1092 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 15:47:25 [error] 10#10: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects HTTP/1.1", upstream: "http://172.19.0.13:9879/projects", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/"
+2017/11/26 15:49:18 [warn] 10#10: *205 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.19.0.1, server: , request: "POST /mydig/projects/events/data HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/26 15:49:26 [warn] 10#10: *205 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.19.0.1, server: , request: "POST /mydig/projects/events/data HTTP/1.1", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/26 23:02:04 [info] 10#10: *5 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/26 23:22:03 [info] 10#10: *254 client 172.19.0.1 closed keepalive connection
+2017/11/26 23:52:26 [error] 10#10: *579 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.19.0.1, server: , request: "POST /mydig/projects/events/actions/recreate_mapping HTTP/1.1", upstream: "http://172.19.0.11:9879/projects/events/actions/recreate_mapping", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/26 23:53:32 [error] 10#10: *579 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.19.0.1, server: , request: "POST /mydig/projects/events/actions/recreate_mapping HTTP/1.1", upstream: "http://172.19.0.11:9879/projects/events/actions/recreate_mapping", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/27 00:07:08 [error] 11#11: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/events/actions/extract?value=etk_status HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/events/actions/extract?value=etk_status", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/27 00:07:10 [error] 11#11: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects/events/actions/extract?value=tld_statistics HTTP/1.1", upstream: "http://172.19.0.13:9879/projects/events/actions/extract?value=tld_statistics", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/details?events"
+2017/11/27 00:07:12 [error] 11#11: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /mydig/projects HTTP/1.1", upstream: "http://172.19.0.13:9879/projects", host: "localhost:12497", referrer: "http://localhost:12497/mydig/ui/"
+2017/11/27 00:07:25 [info] 11#11: *5 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:07:25 [info] 11#11: *7 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:07:25 [info] 11#11: *8 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:07:25 [info] 11#11: *9 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:07:25 [info] 11#11: *6 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:12:09 [info] 11#11: *148 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:12:09 [info] 11#11: *147 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:12:09 [info] 11#11: *145 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:13:06 [info] 11#11: *194 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:13:06 [info] 11#11: *195 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:13:06 [info] 11#11: *196 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:14:17 [info] 11#11: *236 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:14:17 [info] 11#11: *235 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:14:17 [info] 11#11: *237 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:14:17 [info] 11#11: *234 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:35:06 [info] 11#11: *633 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:35:06 [info] 11#11: *632 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:35:06 [info] 11#11: *634 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:36:03 [info] 11#11: *679 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 00:36:03 [info] 11#11: *680 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 01:16:27 [info] 11#11: *1333 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 01:16:27 [info] 11#11: *1334 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 01:32:56 [info] 11#11: *1551 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 01:32:56 [info] 11#11: *1550 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 01:33:28 [info] 11#11: *1587 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2017/11/27 03:12:29 [info] 11#11: *1681 client 172.19.0.1 closed keepalive connection
+2017/11/27 03:12:34 [info] 11#11: *1798 client 172.19.0.1 closed keepalive connection
+2017/11/27 03:43:44 [info] 11#11: *2149 client 172.19.0.1 closed keepalive connection
+2017/11/27 03:43:55 [info] 11#11: *2158 client 172.19.0.1 closed keepalive connection
+2017/11/27 04:21:35 [info] 11#11: *2363 client 172.19.0.1 closed keepalive connection
+2017/11/27 04:21:41 [info] 11#11: *2385 client 172.19.0.1 closed keepalive connection
+2017/11/27 04:21:46 [info] 11#11: *2387 client 172.19.0.1 closed keepalive connection
