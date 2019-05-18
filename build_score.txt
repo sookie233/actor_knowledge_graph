@@ -1,0 +1,103 @@
+twitter
+
+{"username": "TheBiancaDelRio", "name": "Bianca Del Rio", "tweets": 15936, "create_time": "2013-03-23T20:17:24", "followers": 401226, "likes": 56264, "following": 1185, "id": "nm1004435", "listed": 1023,"rank":99,"url": "https://twitter.com/TheBiancaDelRio","raw_content": ".","doc_id": "6"}
+
+
+
+
+
+"tweets"  1
+"followers"/"create_time"  5
+"listed" 3
+"create_time" 
+sentiment_score
+
+ins
+
+{"username": "tomhanks", "num_of_posts": 118, "screen_name": "Tom Hanks", "followers": 3700000, "following": 1, "id": "nm0000158"}
+
+"num_of_posts":
+"followers"
+
+
+facebook
+
+{"username": "jennettemccurdy", "talking_about": 129162, "about": "I write, act, produce, direct, and am trying to get a handle on my generalized anxiety.", "avg_post_likes": 76.36749999999999, "page_likes": 15761569, "id": "nm1390614", "name": "Jennette McCurdy"}
+
+"talking_about"
+avg_post_likes
+page_likes
+
+
+google trends
+
+{"id": "nm4078666", "name": "Alexandra Turshen", "trends": [100, 75, 26, 58, 33, 39, 64, 52, 60, 43, 55, 17, 17, 13, 42, 20, 31, 38, 34, 26, 13, 26, 25, 30, 38, 14, 14, 27, 36, 32, 27, 42, 19, 34, 21, 27, 31, 0, 13, 40, 40, 33, 13, 13, 20, 32, 19, 56, 72, 64, 46]}
+
+max_trends
+
+actor_imdb
+
+{
+	"info": ["Actor", "Music Department", "Soundtrack"],
+	"starmeter": "SEE RANK",
+	"prod_status": ["announced", "announced"],
+	"known_for": [
+		["tt0422091", "tt1833673", "tt0499375", "tt1185420"],
+		["Dhoom", "Dhoom 3", "Guru", "Dostana"]
+	],
+	"name": "Abhishek Bachchan",
+	"gender": "M",
+	"height": "1.88",
+	"movies": [
+		["tt6303094", "tt3547552", "tt5742874", "tt4559046", "tt3547616", "tt3836958", "tt2461132", "tt1833673", "tt1728986", "tt1784589", "tt1618430", "tt1772872", "tt1637691", "tt1322257", "tt1334470", "tt1532957", "tt1043451", "tt1185420", "tt1060249", "tt1179781", "tt0490210", "tt0985636", "tt0473310", "tt0833476", "tt0811066", "tt0499375", "tt0441048", "tt0485522", "tt0456144", "tt0449999", "tt0813996", "tt0476527", "tt0457875", "tt0470869", "tt0457940", "tt0456165", "tt0454391", "tt0415768", "tt0432047", "tt0448206", "tt0433605", "tt0418096", "tt0422091", "tt0422950", "tt0378072", "tt0382383", "tt0411815", "tt0347416", "tt0382385", "tt0369637", "tt0363833", "tt0265148", "tt5361458", "tt0368683", "tt0284479", "tt0327071", "tt0308347", "tt0283911", "tt0255112", "tt0250774", "tt0250690"],
+		["", "", "2017", "2016", "2015", "2015", "2014/I", "2013", "2012", "2012", "2011", "2011/I", "2010", "2010", "2010", "2009", "2009", "2008", "2008", "2008", "2008", "2007", "2007", "2007", "2007", "2007", "2006", "2006", "2006", "2006", "2006", "2005", "2005", "2005", "2005", "2005", "2005", "2005", "2005", "2005", "2004", "2004", "2004", "2004", "2004", "2004", "2004", "2003", "2003", "2003", "2003", "2003", "2003", "2002", "2002", "2002", "2002", "2001", "2000", "2000", "2000"],
+		["Lefty", "Mahabharata", "Sarkar 3", "Housefull 3", "All Is Well", "Shamitabh", "Happy New Year", "Dhoom 3", "Bol Bachchan", "Players", "Dum Maaro Dum", "Game", "Khelein Hum Jee Jaan Sey", "Jhootha Hi Sahi", "Raavan", "Paa", "Delhi-6", "Dostana", "The Legend of Drona", "Mission Istaanbul: Darr Ke Aagey Jeet Hai!", "Sarkar Raj", "Laaga Chunari Mein Daag: Journey of a Woman", "Ram Gopal Varma's Indian Flames", "Jhoom Barabar Jhoom", "Shootout at Lokhandwala", "Guru", "Dhoom 2", "Umrao Jaan", "Lage Raho Munna Bhai", "Kabhi Alvida Naa Kehna", "Alag: He Is Different.... He Is Alone...", "Bluffmaster!", "Ek Ajnabee", "Neal 'N' Nikki", "Home Delivery: Aapko... Ghar Tak", "Salaam Namaste", "Antarmahal: Views of the Inner Chamber", "Dus", "Sarkar", "Bunty Aur Babli", "Naach", "Rakht", "Dhoom", "Phir Milenge", "Hum Tum", "Yuva", "Run", "LOC: Kargil", "Zameen", "Kuch Naa Kaho", "Mumbai Se Aaya Mera Dost", "Main Prem Ki Diwani Hoon", "Aa Ae O", "Desh", "Shararat", "Om Jai Jagadish", "Haan Maine Bhi Pyaar Kiya", "Bas Itna Sa Khwaab Hai...", "Dhaai Akshar Prem Ke", "Tera Jadoo Chal Gayaa", "Refugee"]
+	],
+	"birth_place": "Bombay, Maharashtra, India",
+	"birth": "1976-2-5",
+	"awards": {
+		"won": null,
+		"others": "21 wins & 24 nominations."
+	},
+	"akas": [],
+	"id": "nm0045393"
+}
+
+
+
+imdb_movies
+
+{
+	"rating": "5.8",
+	"metascore": "48",
+	"year": "2005",
+	"duration": "PT81M",
+	"content": "G",
+	"votes": "70,845",
+	"title": "Chicken Little",
+	"languages": ["English"],
+	"won": "Meet the Robinsons",
+	"type": "Movie",
+	"episode_info": null,
+	"movie_id": "tt0371606",
+	"cast_list": ["nm0103785", "nm0005190", "nm0461455", "nm0001772", "nm0781238", "nm0001872", "nm0000349", "nm0001728", "nm0733427", "nm0929609", "nm0001573", "nm0911320", "nm0001842", "nm0910559", "nm0227540"],
+	"top_rated": [],
+	"others": "4 wins & 15 nominations.",
+	"genre": ["Animation", "Adventure", "Comedy"],
+	"gross": "$135,386,665",
+	"weekend": "$300,613        \n\n      (South Africa)",
+	"url": "http://www.imdb.com/title/tt0371606/",
+	"release_date": "4 November 2005 (USA)\n",
+	"budget": "$150,000,000",
+	"summary": "After ruining his reputation with the town, a courageous chicken must come to the rescue of his fellow citizens when aliens start an invasion.",
+	"reviews": ["260 user", "161 critic"]
+}
+
+"reviews"
+"gross"
+"weekend"   
+"budget"
+"rating"
+"metascore"
+votes
+top_rated
