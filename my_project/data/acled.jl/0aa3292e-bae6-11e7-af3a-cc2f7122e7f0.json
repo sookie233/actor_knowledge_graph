@@ -1,0 +1,29 @@
+{
+  "description": "The headmaster of a primary school who was injured in an attack by pickets in Palashbari upazila on Friday died at Rangpur Medical College Hospital on Saturday. The deceased was identified as Altaf Hossain, 45, the headmaster of Bhagbanpur Govt", 
+  "title": "The headmaster of a primary school who was...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Palashbari,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-09T00:00:00", 
+  "actors": [
+    {
+      "title": "BNP: Bangladesh Nationalist Party Militia", 
+      "id": "bangladeshbnpmilitiamilitianationalistpartypolitical", 
+      "description": "Political militia"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa3292e-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Violence against civilians", 
+    "POLITICAL MILITIA VERSUS CIVILIANS"
+  ]
+}

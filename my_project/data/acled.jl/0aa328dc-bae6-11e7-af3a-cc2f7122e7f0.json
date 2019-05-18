@@ -1,0 +1,29 @@
+{
+  "description": "At least 10 people were injured in a clash between two factions of Jatiyatabadi Chhatra Dal (JCD) in Bishwanath upazila on Saturday.\nRafiqul Islam, officer-in-charge of Bishwanath Police Station, said convener of the upazila JCD Matiur Rahman Sumon and convening committee member Shah Amir Uddin had long been at loggerheads over forming the new committee of the unit.\nA chase and counter-chase took place during the melee that left at least 10 people injured from the both sides. Being informed, police rushed in and bought the situation under control", 
+  "title": "At least 10 people were injured in a...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Bishwanath,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:08Z", 
+  "event_date": "2015-01-03T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa328dc-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

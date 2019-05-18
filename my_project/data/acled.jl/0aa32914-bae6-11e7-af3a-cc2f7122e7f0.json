@@ -1,0 +1,29 @@
+{
+  "description": "A Jubo Dal man was killed in Noakhali. The Jubo Dal activist was identified as Rubel, 22, a local activist of the Jubo Dal. He was killed as the police opened fire at one stage of a clash with the processionists at Choumuhani Bazar in Begumganj upazila of the district", 
+  "title": "A Jubo Dal man was killed in Noakhali...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Noakhali,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-07T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa32914-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

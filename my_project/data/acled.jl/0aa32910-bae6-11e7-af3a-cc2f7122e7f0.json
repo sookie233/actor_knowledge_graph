@@ -1,0 +1,29 @@
+{
+  "description": "A local Awami League leader was killed and six people were injured as the rival faction attacked a meeting of the upazila AL in Kaliganj on Wednesday. The supporters of upazila AL general secretary Anwarul Azim Ana attacked the meeting after equipped with sticks, leaving seven people injured.The attackers also vandalised a jeep and at least 10 motorcycles during the mayhem", 
+  "title": "A local Awami League leader was killed and...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "The New Nation (Bangladesh"
+  ], 
+  "location": "Kaliganj,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-07T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa32910-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "RIOTERS VERSUS CIVILIANS"
+  ]
+}

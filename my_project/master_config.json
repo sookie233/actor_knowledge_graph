@@ -1,0 +1,365 @@
+{
+    "index": {
+        "sample": "my_project", 
+        "full": "my_project_deployed", 
+        "version": 0
+    }, 
+    "image_prefix": "", 
+    "glossaries": {
+        "countries": {
+            "path": "countries.json.gz", 
+            "entry_count": 256, 
+            "ngram_distribution": {
+                "1": 184, 
+                "3": 13, 
+                "2": 46, 
+                "5": 5, 
+                "4": 7
+            }
+        }, 
+        "ethnicities": {
+            "path": "ethnicities.json.gz", 
+            "entry_count": 291, 
+            "ngram_distribution": {
+                "1": 262, 
+                "3": 2, 
+                "2": 27
+            }
+        }, 
+        "haircolors": {
+            "path": "haircolors.json.gz", 
+            "entry_count": 60, 
+            "ngram_distribution": {
+                "1": 60
+            }
+        }, 
+        "eyecolors": {
+            "path": "eyecolors.json.gz", 
+            "entry_count": 28, 
+            "ngram_distribution": {
+                "1": 28
+            }
+        }, 
+        "states_usa_canada": {
+            "path": "states_usa_canada.json.gz", 
+            "entry_count": 63, 
+            "ngram_distribution": {
+                "1": 47, 
+                "3": 2, 
+                "2": 14
+            }
+        }, 
+        "cities": {
+            "path": "cities.json.gz", 
+            "entry_count": 13156, 
+            "ngram_distribution": {
+                "1": 11333, 
+                "3": 229, 
+                "2": 1485, 
+                "5": 15, 
+                "4": 93
+            }
+        }, 
+        "states_usa_codes": {
+            "path": "states_usa_codes.json.gz", 
+            "entry_count": 59, 
+            "ngram_distribution": {
+                "1": 59
+            }
+        }
+    }, 
+    "tags": {
+        "United States": {
+            "description": "", 
+            "screen_label": "United States", 
+            "positive_class_precision": 0.0, 
+            "negative_class_precision": 0.0, 
+            "include_in_menu": false, 
+            "name": "United States"
+        }, 
+        "Australia": {
+            "description": "", 
+            "screen_label": "Australia", 
+            "positive_class_precision": 0.0, 
+            "negative_class_precision": 0.0, 
+            "include_in_menu": false, 
+            "name": "Australia"
+        }, 
+        "France": {
+            "description": "", 
+            "screen_label": "France", 
+            "positive_class_precision": 0.0, 
+            "negative_class_precision": 0.0, 
+            "include_in_menu": false, 
+            "name": "France"
+        }, 
+        "risky service": {
+            "description": "", 
+            "screen_label": "risky service", 
+            "positive_class_precision": 0.0, 
+            "negative_class_precision": 0.0, 
+            "include_in_menu": false, 
+            "name": "risky service"
+        }, 
+        "movement": {
+            "description": "", 
+            "screen_label": "movement", 
+            "positive_class_precision": 0.0, 
+            "negative_class_precision": 0.0, 
+            "include_in_menu": false, 
+            "name": "movement"
+        }
+    }, 
+    "table_attributes": {}, 
+    "fields": {
+        "website": {
+            "screen_label": "TLD", 
+            "show_in_result": "header", 
+            "type": "string", 
+            "description": "The TLD of a page", 
+            "glossaries": [], 
+            "screen_label_plural": "TLDs", 
+            "color": "light-green", 
+            "name": "website", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 2, 
+            "predefined_extractor": "TLD", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "maps:flight"
+        }, 
+        "city": {
+            "screen_label": "City", 
+            "show_in_result": "header", 
+            "type": "location", 
+            "description": "Cities mentioned in the page", 
+            "glossaries": [], 
+            "screen_label_plural": "Cities", 
+            "color": "pink", 
+            "name": "city", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "entity", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 10, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "communication:comment"
+        }, 
+        "description": {
+            "screen_label": "Description", 
+            "show_in_result": "description", 
+            "type": "string", 
+            "description": "The main content of a page", 
+            "glossaries": [], 
+            "screen_label_plural": "Descriptions", 
+            "color": "cyan", 
+            "name": "description", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 1, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": false, 
+            "number_of_rules": 0, 
+            "icon": "communication:forum"
+        }, 
+        "title": {
+            "screen_label": "Title", 
+            "show_in_result": "title", 
+            "type": "string", 
+            "description": "The title of a page", 
+            "glossaries": [], 
+            "screen_label_plural": "Titles", 
+            "color": "amber", 
+            "name": "title", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "page", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 3, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "icons:view-stream"
+        }, 
+        "country": {
+            "screen_label": "Country", 
+            "show_in_result": "detail", 
+            "type": "string", 
+            "description": "Countries mentioned in the page", 
+            "glossaries": [
+                "countries"
+            ], 
+            "screen_label_plural": "Countries", 
+            "color": "indigo", 
+            "name": "country", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 5, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "icons:language"
+        }, 
+        "states_usa_codes": {
+            "screen_label": "USA state code", 
+            "show_in_result": "no", 
+            "type": "string", 
+            "description": "USA state codes mentioned in the page", 
+            "glossaries": [
+                "states_usa_codes"
+            ], 
+            "screen_label_plural": "USA state codes", 
+            "color": "teal", 
+            "name": "states_usa_codes", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 3, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "icons:language"
+        }, 
+        "state": {
+            "screen_label": "State", 
+            "show_in_result": "detail", 
+            "type": "string", 
+            "description": "USA and Canada states mentioned in the page", 
+            "glossaries": [
+                "states_usa_canada"
+            ], 
+            "screen_label_plural": "States", 
+            "color": "teal", 
+            "name": "state", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 4, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "icons:language"
+        }, 
+        "city_name": {
+            "screen_label": "City Name", 
+            "show_in_result": "no", 
+            "type": "string", 
+            "description": "City names mentioned in the page", 
+            "glossaries": [
+                "cities"
+            ], 
+            "screen_label_plural": "City Names", 
+            "color": "brown", 
+            "name": "city_name", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 1, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 0, 
+            "icon": "maps:place"
+        }, 
+        "name": {
+            "screen_label": "Name", 
+            "show_in_result": "header", 
+            "type": "string", 
+            "description": "Names mentioned in the page", 
+            "glossaries": [], 
+            "screen_label_plural": "Names", 
+            "color": "blue", 
+            "name": "name", 
+            "show_in_search": true, 
+            "rule_extraction_target": "title_and_description", 
+            "group_name": "", 
+            "show_as_link": "text", 
+            "use_in_network_search": true, 
+            "combine_fields": false, 
+            "rule_extractor_enabled": false, 
+            "search_importance": 5, 
+            "predefined_extractor": "none", 
+            "case_sensitive": false, 
+            "show_in_facets": true, 
+            "number_of_rules": 15, 
+            "icon": "communication:contacts"
+        }
+    }, 
+    "root_name": "ads", 
+    "glossary_dicts": {
+        "state_to_country": {
+            "path": "state_country_dict.json"
+        }, 
+        "geonames": {
+            "path": "city_dict_alt_15000.json"
+        }, 
+        "countries": {
+            "path": "countries.json.gz"
+        }, 
+        "populated_cities": {
+            "path": "populated_cities.json"
+        }, 
+        "country_code": {
+            "path": "country_codes_dict.json"
+        }, 
+        "states_usa_canada": {
+            "path": "states_usa_canada.json.gz"
+        }, 
+        "cities": {
+            "path": "cities.json.gz"
+        }, 
+        "state_to_codes_lower": {
+            "path": "states_to_codes_lower.json"
+        }
+    }, 
+    "sources": [], 
+    "configuration": {
+        "sandpaper_full_url": "http://sandpaper:9876", 
+        "sandpaper_sample_url": "http://sandpaper:9876", 
+        "digapp_sample_url": "http://localhost:8090", 
+        "digapp_full_url": "http://localhost:8090"
+    }
+}

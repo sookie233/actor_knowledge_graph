@@ -1,0 +1,29 @@
+{
+  "description": "One was dead and dozens were injured in stray incidents of violence in the second day of Bangladesh's opposition-enforced countrywide non-stop blockade which began on Tuesday morning, sources said. \nThey said a leader of ex-Prime Minister Khaleda Zia's  Bangladesh Nationalist Party (BNP) was dead and 20 were injured in  clashes between police and anti-government protesters in southeastern Noakhali district, some 158 km away of capital Dhaka, on Wednesday evening.  geo-precision 2, as it is not specified whereabout in the district the clash happened", 
+  "title": "One was dead and dozens were injured in...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "Xinhua General News Service"
+  ], 
+  "location": "Noakhali,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-06T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa3290a-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

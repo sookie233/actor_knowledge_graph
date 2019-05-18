@@ -1,0 +1,29 @@
+{
+  "description": "After an hour assailants again set another bus on fire in the same area at about 3-30am. Firemen again came to the spot and extinguished the fire.\nFire injured Murad was admitted to Jessore hospital and later he was shifted to Dhaka for better treatment", 
+  "title": "After an hour assailants again set another bus...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "Bangladesh Government News"
+  ], 
+  "location": "Jessore,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-06T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa32907-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

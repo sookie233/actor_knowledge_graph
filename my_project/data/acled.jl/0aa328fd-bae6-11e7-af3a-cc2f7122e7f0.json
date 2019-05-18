@@ -1,0 +1,29 @@
+{
+  "description": "Monday, 5 January: Rakib and Raihan Hossain Rana-two activists of pro-BNP Jatiyatabadi Chhatra Dal (JCD)-were shot dead and 15 others injured during a\u00a0clash\u00a0with Awami League workers at Tebaria in Natore district town in the morning", 
+  "title": "Monday, 5 January: Rakib and Raihan Hossain Rana-two...", 
+  "url": "www.acleddata.com", 
+  "death_count": 2, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Tebaria,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }
+  ], 
+  "doc_id": "0aa328fd-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "RIOTERS VERSUS RIOTERS"
+  ]
+}

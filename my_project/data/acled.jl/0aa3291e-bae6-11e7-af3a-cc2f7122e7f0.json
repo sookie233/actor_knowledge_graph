@@ -1,0 +1,29 @@
+{
+  "description": "At least 10 people were injured in a clash between police and 20-party activists in the district town during the daylong hartal here (Noakhali) on Thursday morning. The shutdown was called in the district by the BNP-led combine protesting the killing of the Jubo Dal man Rubel. \nWitnesses said a group of 20-party leaders and activists, led by district unit BNP general secretary and municipal mayor Harun-or-Rashid Azad, brought out a procession in support of the hartal in the district town around 7:10am", 
+  "title": "At least 10 people were injured in a...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Noakhali,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-08T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa3291e-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

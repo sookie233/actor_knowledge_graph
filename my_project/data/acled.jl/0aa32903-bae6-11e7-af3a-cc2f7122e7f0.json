@@ -1,0 +1,29 @@
+{
+  "description": "Following the attack of BNP-Jamaat on leaders of Bangladesh Federal Union of Journalists (BFUJ) and Dhaka Union of Journalists (DUJ), BFUJ leaders brought out a procession at the club premises. (Tuesday", 
+  "title": "Following the attack of BNP-Jamaat on leaders of...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "Bangladesh Government News"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-06T00:00:00", 
+  "actors": [
+    {
+      "title": "Protesters (Bangladesh", 
+      "id": "bangladeshprotestersprotesters", 
+      "description": "Protesters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa32903-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE PROTESTER ACTION"
+  ]
+}

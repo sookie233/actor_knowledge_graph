@@ -1,0 +1,29 @@
+{
+  "description": "Over alleged confinement of BNP Chairperson Khaleda Zia, Jatiyatabadi Chhatra Dal (JCD) leaders and activists vandalised more than fifty vehicles at Banglamotor area in the capital. The incident took place at the area at around 2.30 pm on Sunday when the JCD leaders and activists brought out a rally protesting their chairperson's confinement ahead of their Mondays' programme. Dozens of cocktails have also been blasted in the area at that time", 
+  "title": "Over alleged confinement of BNP Chairperson Khaleda Zia...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The New Nation (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:08Z", 
+  "event_date": "2015-01-04T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa328e2-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

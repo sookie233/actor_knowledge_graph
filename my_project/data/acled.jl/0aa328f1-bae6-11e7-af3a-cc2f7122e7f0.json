@@ -1,0 +1,29 @@
+{
+  "description": "Earlier from Sunday noon to 10:00pm, some 20 vehicles including buses, CNG-run auto rickshaws and private cars were torched in the capital", 
+  "title": "Earlier from Sunday noon to 10:00pm, some 20...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa328f1-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

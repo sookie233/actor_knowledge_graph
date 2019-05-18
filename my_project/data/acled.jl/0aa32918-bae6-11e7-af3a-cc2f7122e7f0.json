@@ -1,0 +1,29 @@
+{
+  "description": "Unknown assailants hurled several crude bombs targeting the residence of High Court judge Abu Taher Mohammad Saifur Rahman at Dhanmondi in Dhaka on Thursday night. Police said a gang of assailants hurled several bombs at Saifur Rahman's residence", 
+  "title": "Unknown assailants hurled several crude bombs targeting the...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The New Nation (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-08T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa32918-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

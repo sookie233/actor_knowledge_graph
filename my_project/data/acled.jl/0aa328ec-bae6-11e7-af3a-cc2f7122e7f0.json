@@ -1,0 +1,29 @@
+{
+  "description": "Monday, 5 January: Besides, Mazid Uddin (45), an activist of Solua union unit of BNP in Charghat upazila of Rajshahi district, was killed as police opened fire on a procession of the BNP-led 20-party alliance at Baneshwar in the upazila on Monday afternoon", 
+  "title": "Monday, 5 January: Besides, Mazid Uddin (45), an...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Baneshwar,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa328ec-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

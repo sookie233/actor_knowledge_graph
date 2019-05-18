@@ -1,0 +1,29 @@
+{
+  "description": "On Friday (Day 4 of hartal) In Barisal, police dispersed a procession of BNP and JCD activists in Kawnia Textile Mills area of the city, said Sakhawat Hossain, officer-in-charge of Kotwali Police Station", 
+  "title": "On Friday (Day 4 of hartal) In Barisal...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Barisal,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-09T00:00:00", 
+  "actors": [
+    {
+      "title": "Protesters (Bangladesh", 
+      "id": "bangladeshprotestersprotesters", 
+      "description": "Protesters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa32923-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS PROTESTERS"
+  ]
+}

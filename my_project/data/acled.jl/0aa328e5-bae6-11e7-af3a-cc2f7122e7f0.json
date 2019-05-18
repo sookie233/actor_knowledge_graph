@@ -1,0 +1,29 @@
+{
+  "description": "An activist of Bangladesh  Krishak League was killed and six others were injured in a bomb attack during an arbitration meeting in presence of lawmaker Haji Mohammed Selim, MP, in the city's Lalbagh area on Sunday afternoon. The deceased has been identified as Idris Mia, 35, an activist of the Krishak League ruling party's peasant front. Injured Monir Hossain, 35, Mujibur Rahman, 40, Moslem Uddin, 30, Nuruzzaman, 30, and Md Nizam, 31 had been admitted to the Dhaka Medical College and Hospital (DMCH", 
+  "title": "An activist of Bangladesh Krishak League was killed...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "The New Nation (Bangladesh"
+  ], 
+  "location": "Lalbagh,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:08Z", 
+  "event_date": "2015-01-04T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Armed Group (Bangladesh", 
+      "id": "armedbangladeshgroupmilitiapoliticalunidentified", 
+      "description": "Political militia"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa328e5-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Violence against civilians", 
+    "POLITICAL MILITIA VERSUS CIVILIANS"
+  ]
+}

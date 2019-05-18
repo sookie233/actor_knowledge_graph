@@ -1,0 +1,29 @@
+{
+  "description": "Two bombs went off near Paltan Jam-e Mosque around 7:40pm. However, no injury was reported in the incident", 
+  "title": "Two bombs went off near Paltan Jam-e Mosque...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Paltan,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:08Z", 
+  "event_date": "2015-01-04T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Armed Group (Bangladesh", 
+      "id": "armedbangladeshgroupmilitiapoliticalunidentified", 
+      "description": "Political militia"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa328e6-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Remote violence", 
+    "SOLE POLITICAL MILITIA ACTION"
+  ]
+}

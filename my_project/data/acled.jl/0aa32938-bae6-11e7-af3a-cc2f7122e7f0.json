@@ -1,0 +1,29 @@
+{
+  "description": "Three crude bombs went off in front of the Awami League's (AL) central office at Bangabandhu Avenue Saturday, reports UNB.\nOfficer-in-Charge (OC) of Paltan police station Morshed Alam said unidentified assailants blasted three crude bombs in front of the AL office around 3.00 pm", 
+  "title": "Three crude bombs went off in front of...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-10T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Armed Group (Bangladesh", 
+      "id": "armedbangladeshgroupmilitiapoliticalunidentified", 
+      "description": "Political militia"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa32938-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Remote violence", 
+    "SOLE POLITICAL MILITIA ACTION"
+  ]
+}

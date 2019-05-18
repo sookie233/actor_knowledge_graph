@@ -1,0 +1,29 @@
+{
+  "description": "On Friday (Day 4 of hartal) In the capital, a bus of 'Balaka Paribahan' was torched near Nabisco point in Tejgaon Industrial area around 6:53pm", 
+  "title": "On Friday (Day 4 of hartal) In the...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-09T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa32927-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

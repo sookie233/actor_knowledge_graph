@@ -1,0 +1,29 @@
+{
+  "description": "Attack on Executive Magistrate of Feni Md Abdul Qader Mia by assailants of BNP and Jamaat-Shibir.Abdu Qader sustained injuries when the assailants hurled a crude bomb at a microbus carrying him near the police quarters on Shaheed Shahidullah Qaiser Road in Feni town around 9:05 pm on Friday. Qader Mia was rushed to the hospital for treatment", 
+  "title": "Attack on Executive Magistrate of Feni Md Abdul...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "Bangladesh Government News"
+  ], 
+  "location": "Feni,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-09T00:00:00", 
+  "actors": [
+    {
+      "title": "BNP: Bangladesh Nationalist Party Militia", 
+      "id": "bangladeshbnpmilitiamilitianationalistpartypolitical", 
+      "description": "Political militia"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa3292b-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Violence against civilians", 
+    "POLITICAL MILITIA VERSUS CIVILIANS"
+  ]
+}

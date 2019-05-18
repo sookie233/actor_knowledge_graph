@@ -1,0 +1,29 @@
+{
+  "description": "Clash between BNP-Jammat activists and the police at Kazir Dewri area on Monday", 
+  "title": "Clash between BNP-Jammat activists and the police at...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The New Nation (Bangladesh"
+  ], 
+  "location": "Kazir Dewri,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa328f5-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

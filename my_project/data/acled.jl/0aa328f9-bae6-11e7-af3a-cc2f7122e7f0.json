@@ -1,0 +1,29 @@
+{
+  "description": "Some assailants hurled bombs at ruling party MP of Rajshahi-3 Ayeen Uddin while he was addressing a rally at Paba Upazila in Rajshahi on Monday. However, none was injured. Two bombs were hurled at MP Ayen Uddin as soon as he went up to the podium to address a rally at Paba, said the police official. 'The bombs exploded near the stage. The lawmaker was whisked away by police and Awami League activists immediately,' he added, according to a news agency", 
+  "title": "Some assailants hurled bombs at ruling party MP...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Paba,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa328f9-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "RIOTERS VERSUS CIVILIANS"
+  ]
+}

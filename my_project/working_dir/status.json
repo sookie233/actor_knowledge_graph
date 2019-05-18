@@ -1,0 +1,17 @@
+{
+    "added_docs": {
+        "parusanalytics.com": 10, 
+        "twitter.com": 1, 
+        "acleddata.com": 10
+    }, 
+    "desired_docs": {
+        "parusanalytics.com": 10, 
+        "twitter.com": 10, 
+        "acleddata.com": 10
+    }, 
+    "total_docs": {
+        "parusanalytics.com": 100, 
+        "twitter.com": 1, 
+        "acleddata.com": 100
+    }
+}

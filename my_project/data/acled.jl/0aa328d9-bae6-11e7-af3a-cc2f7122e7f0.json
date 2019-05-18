@@ -1,0 +1,29 @@
+{
+  "description": "Sunamganj, Jan 2 (UNB) Over 50 people were injured in a clash between two groups of locals over irrigating crops at Baromoha village in South Sunamganj upazila on Friday morning.\nPolice said an altercation took place on Thursday between the supporters of Shahi Alam Khan and Fazlu Master of the village over irrigating their land in a haor.\nAs a sequel of the incident, the both groups, equipped with local weapons, were locked in a clash around 9am on Friday.\nA chase and counter-chase took place during the two-hour long melee that left 50 people injured from the both groups.On information, police rushed in and brought the situation under control", 
+  "title": "Sunamganj, Jan 2 (UNB) Over 50 people were...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Sunamganj,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:08Z", 
+  "event_date": "2015-01-01T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Communal Group (Bangladesh", 
+      "id": "bangladeshcommunalethnicgroupmilitiaunidentified", 
+      "description": "Ethnic militia"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa328d9-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Battle-No change of territory", 
+    "MILITARY VERSUS COMMUNAL MILITIA"
+  ]
+}

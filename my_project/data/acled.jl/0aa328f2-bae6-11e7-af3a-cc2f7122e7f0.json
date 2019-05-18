@@ -1,0 +1,29 @@
+{
+  "description": "Monday, 5 January: In the capital\u00a0clashes\u00a0broke out between police and opposition activists. Five vehicles were torched in different areas in the city. Clashes\u00a0spread from Bhatara's Kuril Bishwa Road to Jamuna Future Park starting from around 11:15am Monday. The BNP and Jamaat activists were preparing to take out a procession when police intervened. That sparked the\u00a0clash, said Bhatara police Inspector Md Abu Bakar Mia. When police tried to disperse agitating BNP-Jamaat activists, they hurled several hand-made bombs", 
+  "title": "Monday, 5 January: In the capital\u00a0clashes\u00a0broke out between...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Dhaka,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-05T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa328f2-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

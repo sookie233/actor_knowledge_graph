@@ -1,0 +1,29 @@
+{
+  "description": "On Thursday (Day 3 of hartal) In Laxmipur, leaders and activists of BNP-Jamaat brought out a sudden procession in Miah Rasta area on the Laxmipur-Ramgati Road in the district town around 9:00 am and vandalised a bus and an auto-rickshaw. They also blasted five crude bombs\u00a0in the area", 
+  "title": "On Thursday (Day 3 of hartal) In Laxmipur...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "United News of\u00a0Bangladesh"
+  ], 
+  "location": "Lakshmipur,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-08T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "", 
+      "id": "", 
+      "description": ""
+    }
+  ], 
+  "doc_id": "0aa3291b-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "SOLE RIOTER ACTION"
+  ]
+}

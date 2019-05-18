@@ -1,0 +1,29 @@
+{
+  "description": "One person was killed and 10 others were injured in a clash between two rival groups at Nandinasahar village under Betkapa union of Palashbari upazila in the district on Wednesday.\nThe victim is Shahid Miah, 32, son of Sadek Ali of the village.\nAccording to sources, there had been a long standing conflict between the men of 8 Ghar group and 40 Ghar group of the village over the ownership of 88 bighas of land.\nThe men of 8 Ghar group led by Shajahan, Emdadul and Harun went to the beel to posses the disputed land.\nOn information, the men of 40 Ghar group rushed to the spot to resist the opponent group.\nAt one stage, both the sides equipped with lethal weapon and sticks locked in bloody clash leaving Shahid Miah dead on the spot and 10 others of 40 Ghar wounded. geo-coordinates are for Palashbari upazila", 
+  "title": "One person was killed and 10 others were...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "Bangladesh Government News"
+  ], 
+  "location": "Nandinasahar,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-07T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Communal Group (Bangladesh", 
+      "id": "bangladeshcommunalethnicgroupmilitiaunidentified", 
+      "description": "Ethnic militia"
+    }, 
+    {
+      "title": "Unidentified Communal Group (Bangladesh", 
+      "id": "bangladeshcommunalethnicgroupmilitiaunidentified", 
+      "description": "Ethnic militia"
+    }
+  ], 
+  "doc_id": "0aa32913-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Battle-No change of territory", 
+    "COMMUNAL MILITIA VERSUS COMMUNAL MILITIA"
+  ]
+}

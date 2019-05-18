@@ -1,0 +1,29 @@
+{
+  "description": "Suspected blockaders set fire to 2 trucks and vandalised 22 vehicles in Palashbari Upazila in Gaibandha district on Thursday night. The blockaders vandalised 22 vehicles, and at one stage, they set fire to 2 trucks. As police tried to resist them, a chase and counter-chase took place, triggering a clash that left 20 people injured on both side. Police fired several rounds of shots and lobbed teargas shells to disperse them", 
+  "title": "Suspected blockaders set fire to 2 trucks and...", 
+  "url": "www.acleddata.com", 
+  "death_count": 0, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Palashbari,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-08T00:00:00", 
+  "actors": [
+    {
+      "title": "Rioters (Bangladesh", 
+      "id": "bangladeshriotersrioters", 
+      "description": "Rioters"
+    }, 
+    {
+      "title": "Police Forces of Bangladesh", 
+      "id": "bangladeshforceforcesgovernmentmutinousoforpolice", 
+      "description": "Government or mutinous force"
+    }
+  ], 
+  "doc_id": "0aa3291f-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Riots/Protests", 
+    "MILITARY VERSUS RIOTERS"
+  ]
+}

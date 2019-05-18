@@ -1,0 +1,29 @@
+{
+  "description": "A local Awami League (AL) leader was beaten dead allegedly by some shopkeepers at Bian Bazar in Shibganj Upazila in Chapainawabganj district on Friday night. An AL activist was chopped and injured in the attack. The dead is Mukul, son of Tunu Miah of Namotikri village of Mobarakpur union. At one stage, some shopkeepers, equipped with sharp weapons and sticks, attacked Mukul and mercilessly beat him with sticks, leaving him dead on the spot. They also attacked Mukul's companion Eklas with sharp weapons and chopped him indiscriminately. Critically injured Eklas, 30, son of Taifuddin of Namotikri village, was rushed to a local hospital, according to a news agency", 
+  "title": "A local Awami League (AL) leader was beaten...", 
+  "url": "www.acleddata.com", 
+  "death_count": 1, 
+  "references": [
+    "The Financial Express (Bangladesh"
+  ], 
+  "location": "Shibganj,Bangladesh", 
+  "timestamp_crawl": "2017-11-26T06:20:09Z", 
+  "event_date": "2015-01-09T00:00:00", 
+  "actors": [
+    {
+      "title": "Unidentified Communal Group (Bangladesh", 
+      "id": "bangladeshcommunalethnicgroupmilitiaunidentified", 
+      "description": "Ethnic militia"
+    }, 
+    {
+      "title": "Civilians (Bangladesh", 
+      "id": "bangladeshcivilianscivilians", 
+      "description": "Civilians"
+    }
+  ], 
+  "doc_id": "0aa32930-bae6-11e7-af3a-cc2f7122e7f0", 
+  "event_type": [
+    "Violence against civilians", 
+    "COMMUNAL MILITIA VERSUS CIVILIANS"
+  ]
+}
